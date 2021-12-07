@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I am Ahmed Bolarinwa, Welcome to my GitHub :smile:👋
 
-<!--
-**Bola-coder/Bola-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a Frontend Developer with experience building responsive and well designed websites :blush:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on building my first FullStack project
+- 🌱 I’m currently learning FullStack Development
+- 👯 I’m looking to collaborate on Web Projects (Frontend and Backend)
+- 🤔 I’m looking for help with Internships and entry level Jobs (Frontend )
+- 💬 Ask me about Web Development
+- 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/ahmed-bolarinwa/) , [twitter] (https://www.twitter.com/tesla_sir)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Aside coding, I love to read Novels, listen to Music, Eat and Sleep. :laughing:
+
