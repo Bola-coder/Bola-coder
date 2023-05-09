@@ -1,11 +1,11 @@
-### Hi there, I am Ahmed Bolarinwa, Welcome to my GitHub :smile:👋
+### Hi there, I am Bolarinwa Ahned, Welcome to my GitHub :smile:👋
 
 
-I am a Fullstack Developer with experience building responsive and well designed webapps. I am also intrested in the world of Data science and Machine Learning.
+I am a Fullstack Web and Mobile App Developer with experience building responsive and well designed webapps and mobile applications(react native). I am also intrested in the world of Data science and Machine Learning.
 
-- 🔭 I’m currently working on building an anonymous messaging platform using the MERN stack && A simple chat app in React and ExpressJs && Also learning Tailwind CSS by building a personal blogging site. 
+- 🔭 I’m currently working on building a Medicakl Job Board Application (Fullstack Web and Mobile).
 - 🌱 I’m currently learning Backend Development Nodejs + Expressjs
-- 👯 I’m looking to collaborate on Web Projects (Frontend and Backend)
+- 👯 I’m looking to collaborate on exciting projects (Frontend, Backend and Mobile App)
 - 💬 Ask me about Web Development
 - 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/ahmed-bolarinwa/) , [twitter] (https://www.twitter.com/tesla_sir)
 - 😄 Pronouns: He/Him
