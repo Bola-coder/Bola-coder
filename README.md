@@ -1,4 +1,4 @@
-### Hi there, I am Bolarinwa Ahned, Welcome to my GitHub :smile:👋
+### Hi there, I am Bolarinwa Ahmed, Welcome to my GitHub :smile:👋
 
 
 I am a Fullstack Web and Mobile App Developer with experience building responsive and well designed webapps and mobile applications(react native). I am also intrested in the world of Data science and Machine Learning.
